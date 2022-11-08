@@ -7,7 +7,7 @@ First train Your Models from Teachable Machine (https://teachablemachine.withgoo
 
 then download The model
 
-And download the necessary files
+And download the necessary Python libraries
 
 run the main.py file
 
